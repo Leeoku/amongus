@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  height: 25vh;
+}
+
+h1 {
+  white-space: pre-line;
+}
