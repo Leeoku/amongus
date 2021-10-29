@@ -41,11 +41,11 @@ export const data = [
   {
     id: "111318",
     message:
-      "HELLO AGENT!\n How do you find a Greek sandwich? With a GYRO SCOPE ;D",
+      "HELLO AGENT ROBO DEVIN!\n How do you find a Greek sandwich? With a GYRO SCOPE ;D",
   },
   {
     id: "122526",
-    message: "HELLO AGENT!\n ALLL HAIL THE PRINCE OF DARKNESS",
+    message: "HELLO AGENT PRINCE OF DARKNESS!\n ALLL HAIL THE PRINCE OF DARKNESS",
   },
   {
     id: "145500",
