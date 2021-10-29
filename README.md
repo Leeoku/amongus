@@ -1,3 +1,6 @@
+# Pages link
+https://leeoku.github.io/amongus/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
