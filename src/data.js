@@ -45,7 +45,8 @@ export const data = [
   },
   {
     id: "122526",
-    message: "HELLO AGENT PRINCE OF DARKNESS!\n ALLL HAIL THE PRINCE OF DARKNESS",
+    message:
+      "HELLO AGENT PRINCE OF DARKNESS!\n ALLL HAIL THE PRINCE OF DARKNESS",
   },
   {
     id: "145500",
@@ -56,5 +57,20 @@ export const data = [
     id: "525977",
     message:
       "HELLO AGENT CHEWBACANNE!\n One time Chew forgot to put the parking break on on the car. It was a WOOKIE mistake",
+  },
+  {
+    id: "111645",
+    message:
+      "HELLO AGENT GHOST MICHAEL!\n I bet you’re a terrible liar Ghost Michael. Why? Because I can SEE RIGHT THROUGH YOU.",
+  },
+  {
+    id: "720169",
+    message:
+      "HELLO AGENT SAGNIK SPACEMAN! \n We’re throwing a party in space…. Can you help us planet?",
+  },
+  {
+    id: "120790",
+    message:
+      "HELLO AGENT KEVIN SCISSORHANDS!\n What do they call your ancestors? Your prede-scissors!",
   },
 ];
